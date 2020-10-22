@@ -1,2 +1,2 @@
 # Java-Progams
-All java programs from beginners to advance level
+All the basic java programs
